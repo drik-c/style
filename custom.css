@@ -6,11 +6,9 @@
     padding: 10px;
     text-transform: none;
 }
-@media (max-width: 991px){
 .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #eaf2fa;
     padding: 10px;
-}
 }
 
 .copyright small, .poweredby {
