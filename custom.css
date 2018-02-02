@@ -1,0 +1,25 @@
+.logo-text {
+    text-transform: none;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #eaf2fa;
+    padding: 10px;
+    text-transform: none;
+}
+@media (max-width: 991px){
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #eaf2fa;
+    padding: 10px;
+}
+}
+
+.copyright small, .poweredby {
+	display:none;
+}
+.t3-copyright {
+	padding-bottom:20px !important;
+}
+
+aside.article-aside {
+	display:none;
+}
