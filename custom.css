@@ -1,6 +1,12 @@
 .logo-text {
     text-transform: none;
 }
+@media screen and (max-width: 991px){
+	.logo-image > a {
+	    max-width: 280px;
+	}
+}
+
 .navbar-default .navbar-nav > li > a {
     color: #eaf2fa;
     padding: 10px;
